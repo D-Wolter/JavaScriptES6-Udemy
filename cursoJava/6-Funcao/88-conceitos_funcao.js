@@ -2,6 +2,7 @@
 //Higher-order function
 
 //criar de forma literal
+//funcoes 
 function fun1() { }
 
 //armazenar funcao em uma variavel
